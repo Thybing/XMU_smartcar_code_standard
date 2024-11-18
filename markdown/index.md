@@ -30,7 +30,7 @@
 [头文件](./header.md)  
 [函数](./function.md)  
 [标识符命名风格](./identifier.md)  
-[变量]()  
+[变量](./variable.md)  
 [宏、常量]()  
 [代码质量保证]()  
 [注释]()  
